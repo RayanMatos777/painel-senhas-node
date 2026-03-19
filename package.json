@@ -1,0 +1,13 @@
+{
+  "name": "alternador-painel-senha",
+  "version": "1.0.0",
+  "description": "Alternador de painel e VLC",
+  "main": "app.js",
+  "bin": {
+    "alternador-painel-senha": "app.js"
+  },
+  "scripts": {},
+  "dependencies": {
+    "socket.io-client": "^4.7.2"
+  }
+}
