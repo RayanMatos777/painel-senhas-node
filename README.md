@@ -4,7 +4,8 @@
 ## 📌 Sobre o projeto
 
 Sistema desenvolvido em Node.js que exibe um vídeo em loop e interrompe automaticamente para mostrar senhas recebidas em tempo real via WebSocket.
-
+A equipe de marketing de um dos laboratorios que atendo, teve a ideia de usar o tempo ocioso do painel de senhas como uma ferramenta para publicidade.
+dai so coloquei a ideia na pratica ! a equipe e o proprietario gostaram muito do resultado, ja implantamos em todas as unidades desse laboratorio, uso em pleno vapor.
 ---
 
 ## 🚀 Tecnologias utilizadas
